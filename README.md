@@ -143,7 +143,7 @@ This plugin is distributed under GNU GPL v.2 or any later version.
 
 ## Support
 
-We have added advanced functionalities away beyond version 1. Our goal is to expand the range of services and introduce new features.
+We've just begun and have implemented basic functionality so far. Our goal is to expand the range of services and introduce new features.
 
 We appreciate any feedback, and pull requests are welcome on **GitHub**.
 
