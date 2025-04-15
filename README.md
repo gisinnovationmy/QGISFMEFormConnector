@@ -80,7 +80,7 @@ Before using the plugin, ensure you have:
 
 3. Workspace Compatibility:
 
-  The plugin works best with FME workspaces that:
+  - The plugin works best with FME workspaces that:
 
     - Have clearly defined published parameters.
     - Use standard reader/writer formats.
