@@ -44,7 +44,7 @@ class qgisfmeformconnector:
 
         # Declare instance attributes
         self.actions = []
-        self.menu = self.tr(u'&QGIS - FME Form Connector')
+        self.menu = self.tr(u'&QGIS-FME Form Connector')
 
         self.pluginIsActive = False
         self.dlg = None
@@ -168,7 +168,7 @@ class qgisfmeformconnector:
         icon_path = os.path.join(os.path.dirname(__file__), "icon.png")
         
         # Create the action (checkable toggle)
-        self.action = QAction(QIcon(icon_path), self.tr('QGIS - FME Form Connector'), self.iface.mainWindow())
+        self.action = QAction(QIcon(icon_path), self.tr('QGIS-FME Form Connector'), self.iface.mainWindow())
         self.action.setCheckable(True)
         self.action.triggered.connect(self.toggle_panel)
         

@@ -4,6 +4,10 @@ The QGIS-FME Form Connector is a powerful plugin that bridges QGIS and FME, enab
 
 This plugin allows QGIS users to leverage FME's robust data transformation capabilities directly from the QGIS interface.
 
+This plugin includes a default FME workspace (.fmw) to help you get started. The workspace is located in the plugin folder directory under "FME Workspace/QGISFMEFormConnectorTemplate.fmw".
+
+Make sure you have FME Form installed to use this plugin. The plugin uses a default FME workspace which you can customize.
+
 The extension is available from the official repository [QGIS plugins page](https://plugins.qgis.org/plugins/qgisfmeformconnector/). 
 
 Use the QGIS Plugins menu to install the QGIS-FME Form Connector [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
@@ -38,7 +42,7 @@ QGIS-FME Form Connector has been developed using QGIS 3.34.
     - Up directory button.
     - Workspace file list.
 
-2.	Workspace Information Panel (Center):
+2.	Workspace Information Panel (Left):
 
     - Workspace details and metadata.
     - Parameter table for customization.
@@ -70,7 +74,7 @@ Before using the plugin, ensure you have:
 
     - Use the file browser to navigate to your FME workspace directory.
     - Click on an .fmw file to select it.
-    - The workspace details will automatically load in the center panel.
+    - The workspace details will automatically load in the left panel.
 
 2. The plugin will automatically:
 
@@ -126,7 +130,6 @@ The parameter table allows you to customize how the FME workspace will execute:
 2. Custom Parameters:
 
     - Additional parameters defined in the FME workspace.
-    - Can be toggled on/off as needed.
     - Values can be edited directly in the table.
 
 3. Filename Generation:

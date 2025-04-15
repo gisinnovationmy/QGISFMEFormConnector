@@ -1716,7 +1716,7 @@ class QGISFMEFormConnectorDialog(QDialog):
         # Install global exception handler for PyQt errors
         sys.excepthook = self.handle_exception
         
-        self.setWindowTitle('QGIS - FME Form Connector')
+        self.setWindowTitle('QGIS-FME Form Connector')
         self.setWindowModality(Qt.NonModal)
         self.setAttribute(Qt.WA_DeleteOnClose, True)
         self.setWindowFlags(Qt.Window | Qt.WindowSystemMenuHint | Qt.WindowMinMaxButtonsHint | Qt.WindowCloseButtonHint)

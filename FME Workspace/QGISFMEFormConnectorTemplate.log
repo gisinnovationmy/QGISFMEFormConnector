@@ -1,0 +1,110 @@
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Current FME version: FME 2024.2.1.0 (20241202 - Build 24801 - WIN64)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|System Time: 20250415040509 UTC
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Workspace was last saved in FME version: FME 2024.2.1.0 (20241202 - Build 24801 - WIN64)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Form Fixed (node locked-crc)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Serial Number: VAR-5WVD-33RN-1224
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Temporary License: 169 days left.
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Machine host name is: GIS101
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|OS Locale Name     : en_MY
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\user\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\qgisfmeformconnector\FME Workspace/'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'QGISFMEFormConnectorTemplate.fmw'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.2.1.0'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 26100)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Platform: WIN64
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|System Status: 274.94 GB of disk space available in the FME temporary folder (C:\Users\user\AppData\Local\Temp)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|System Status: 31.87 GB of physical memory available
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|System Status: 127.49 GB of virtual memory available
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|START - ProcessID: 20036, peak process memory usage: 42424 kB, current process memory usage: 42424 kB
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:/Program Files/FME/fme.exe' `C:/Users/user/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins/qgisfmeformconnector/FME Workspace/QGISFMEFormConnectorTemplate.fmw' `--myCoef' `5' `--OFFSET' `0.000015' `--FME_LAUNCH_VIEWER_APP' `YES' `--SourceDataset_GEOJSON' `C:/Users/user/AppData/Roaming/QGIS/QGIS3\profiles\default/temp/20250415_yve1f_line2_input.geojson' `--DestDataset_GEOJSON' `C:/Users/user/AppData/Roaming/QGIS/QGIS3\profiles\default/temp/20250415_yve1f_line2_output.geojson'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\user\AppData\Roaming\Safe Software\FME\'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\user\Documents\FME\Formats
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\user\AppData\Roaming\Safe Software\FME\Packages\24801-win64\transformers;C:\Program Files\FME\transformers;C:\Users\user\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\user\Documents\FME\CoordinateSystems
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\user\Documents\FME\CoordinateSystemExceptions
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\user\Documents\FME\CoordinateSystemGridOverrides
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\user\Documents\FME\CsmapTransformationExceptions
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\user\Documents\FME\TransformerCategories
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\user\Documents'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\user\AppData\Local\Temp', set from environment variable `TEMP'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\user\AppData\Local\Temp'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 95.62 GB
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 71.71 GB
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Creating writer for format: 
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Creating reader for format: 
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GEOJSON Reader with keyword GEOJSON_1
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Loaded module 'GEOJSON' from file 'C:\Program Files\FME\plugins/JSON.dll'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME API version of module 'JSON' matches current internal version (4.0 20240212)
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Opening the GEOJSON reader with source dataset 'C:\Users\user\AppData\Roaming\QGIS\QGIS3\profiles\default\temp\20250415_yve1f_line2_input.geojson'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Using MultiWriter with keyword `PRIMARY_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|Loaded module 'CounterFactory' from file 'C:\Program Files\FME\plugins/CounterFactory.dll'
+2025-04-15 12:05:09|   0.0|  0.0|INFORM|FME API version of module 'CounterFactory' matches current internal version (4.0 20240212)
+2025-04-15 12:05:09|   0.4|  0.4|INFORM|FME Configuration: Source coordinate system for reader GEOJSON_1[GEOJSON] set to `LL84' as read from input data
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Coordinate System `LL84' parameters: CS_NAME=`LL84' DESC_NM=`WGS84 datum, Latitude-Longitude; Degrees' DT_NAME=`WGS84' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`182' MIN_LAT=`-90' MIN_LNG=`-182' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Opening the GEOJSON reader with source dataset 'C:\Users\user\AppData\Roaming\QGIS\QGIS3\profiles\default\temp\20250415_yve1f_line2_input.geojson'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Closing the GEOJSON reader
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Reader `GEOJSON_1' of type `GEOJSON' provided schema for types: 20250415_yve1f_line2_input
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|Writer `GEOJSON_2' of type `GEOJSON' using group definition keyword `GEOJSON_2_DEF'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|GEOJSON Writer: Opening the GEOJSON writer with destination dataset 'C:\Users\user\AppData\Roaming\QGIS\QGIS3\profiles\default\temp\20250415_yve1f_line2_output.geojson'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `LL84'
+2025-04-15 12:05:09|   0.4|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2025-04-15 12:05:09|   0.5|  0.1|INFORM|Closing the GEOJSON reader
+2025-04-15 12:05:09|   0.5|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 557 features from 1 readers
+2025-04-15 12:05:09|   0.5|  0.0|INFORM|Emptying factory pipeline
+2025-04-15 12:05:09|   0.5|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 557 input feature(s), wrote 557 output feature(s): 557 matched merge filters, 557 were routed to output, 0 could not be routed.
+2025-04-15 12:05:09|   0.5|  0.0|STATS |20250408_vfcrh_line2_input_GEOJSON_1 Splitter (TeeFactory): Cloned 557 input feature(s) into 557 output feature(s)
+2025-04-15 12:05:09|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.5|  0.0|STATS |                        `CountFactory' Domain Summary
+2025-04-15 12:05:09|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.5|  0.0|STATS |counter                                                                    557
+2025-04-15 12:05:09|   0.5|  0.0|STATS |==============================================================================
+2025-04-15 12:05:09|   0.5|  0.0|STATS |Total features counted:                                                    557
+2025-04-15 12:05:09|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.5|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 557 input feature(s), wrote 557 output feature(s): 0 matched merge filters, 557 were routed to output, 0 could not be routed.
+2025-04-15 12:05:09|   0.5|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2025-04-15 12:05:09|   0.6|  0.1|INFORM|Closing the GEOJSON writer
+2025-04-15 12:05:09|   0.6|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_2':
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |                               Features Written
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |20250415_yve1f_line2_input                                                 557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |==============================================================================
+2025-04-15 12:05:09|   0.6|  0.0|STATS |Total Features Written                                                     557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |                            Features Read Summary
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |20250415_yve1f_line2_input                                                 557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |==============================================================================
+2025-04-15 12:05:09|   0.6|  0.0|STATS |Total Features Read                                                        557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |                           Features Written Summary
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|STATS |20250415_yve1f_line2_input                                                 557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |==============================================================================
+2025-04-15 12:05:09|   0.6|  0.0|STATS |Total Features Written                                                     557
+2025-04-15 12:05:09|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-04-15 12:05:09|   0.6|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (557 feature(s) output)
+2025-04-15 12:05:09|   0.6|  0.0|INFORM|FME Session Duration: 0.9 seconds. (CPU: 0.5s user, 0.1s system)
+2025-04-15 12:05:09|   0.6|  0.0|INFORM|END - ProcessID: 20036, peak process memory usage: 100540 kB, current process memory usage: 95096 kB
