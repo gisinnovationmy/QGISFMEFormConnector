@@ -1,16 +1,10 @@
 # QGIS-FME Form Connector
 
-The QGIS-FME Form Connector is a powerful plugin that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these platforms. 
+The QGIS-FME Form Connector plugin is a powerful tool that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these two platforms. This plugin allows QGIS users to leverage FME's robust and powerful data transformation capabilities directly from the QGIS interface.Hence, In order to use this plugin, the users must make sure FME Form is installed and licensed to run.
 
-This plugin allows QGIS users to leverage FME's robust data transformation capabilities directly from the QGIS interface.
+It includes a default FME workspace (template) to help you get started. The template can be customized to the users needs. The workspace is located in the plugin folder directory under "FME Workspace/QGISFMEFormConnectorTemplate.fmw". 
 
-This plugin includes a default FME workspace (.fmw) to help you get started. The workspace is located in the plugin folder directory under "FME Workspace/QGISFMEFormConnectorTemplate.fmw".
-
-Make sure you have FME Form installed to use this plugin. The plugin uses a default FME workspace which you can customize.
-
-The extension is available from the official repository [QGIS plugins page](https://plugins.qgis.org/plugins/qgisfmeformconnector/). 
-
-Use the QGIS Plugins menu to install the QGIS-FME Form Connector [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
+The plugin can be downloaded from the official repository, [QGIS plugins page](https://plugins.qgis.org/plugins/qgisfmeformconnector/) or directly from QGIS plugin manager [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
 
 QGIS-FME Form Connector has been developed using QGIS 3.34.
 
@@ -130,11 +124,11 @@ The parameter table allows you to customize how the FME workspace will execute:
 2. Custom Parameters:
 
     - Additional parameters defined in the FME workspace.
-    - Values can be edited directly in the table.
+    - Values can be edited directly in the table cells value.
 
 3. Filename Generation:
 
-    The plugin can automatically generate standardized filenames for input and output datasets using the format:
+    The plugin automatically generates standardized filenames for input and output datasets using the format:
 
     **YYYYMMDD_xxxxx_line2_[input/output].geojson**.
 
