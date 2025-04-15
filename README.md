@@ -131,9 +131,9 @@ The parameter table allows you to customize how the FME workspace will execute:
 
 3. Filename Generation:
 
-The plugin can automatically generate standardized filenames for input and output datasets using the format:
+    The plugin can automatically generate standardized filenames for input and output datasets using the format:
 
-**YYYYMMDD_xxxxx_line2_[input/output].geojson**.
+    **YYYYMMDD_xxxxx_line2_[input/output].geojson**.
 
 
 ## License
