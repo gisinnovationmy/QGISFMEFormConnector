@@ -1,10 +1,10 @@
 # QGIS-FME Form Connector
 
-The QGIS-FME Form Connector plugin is a powerful tool that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these two platforms. This plugin allows QGIS users to leverage FME's robust and powerful data transformation capabilities directly from the QGIS interface.Hence, In order to use this plugin, the users must make sure FME Form is installed and licensed to run.
+The QGIS-FME Form Connector plugin is a powerful tool that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these two platforms. This plugin allows QGIS users to leverage FME's robust and powerful data transformation capabilities directly from the QGIS interface. Hence, in order to use this plugin, the users must make sure FME Form is installed and licensed to run.
 
 It includes a default FME workspace (template) to help you get started. The template can be customized to the users needs. The workspace is located in the plugin folder directory under "FME Workspace/QGISFMEFormConnectorTemplate.fmw". 
 
-The plugin can be downloaded from the official repository, [QGIS plugins page](https://plugins.qgis.org/plugins/qgisfmeformconnector/) or directly from QGIS plugin manager [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
+The plugin can be downloaded from the official repository, [QGIS plugins repository](https://plugins.qgis.org/plugins/qgisfmeformconnector/) or directly from QGIS plugin manager, [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
 
 QGIS-FME Form Connector has been developed using QGIS 3.34.
 
