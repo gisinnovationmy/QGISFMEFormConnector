@@ -33,7 +33,6 @@ QGIS-FME Form Connector has been developed using QGIS 3.34.
 
     - Directory navigation tree.
     - Address bar for direct path entry.
-    - Up directory button.
     - Workspace file list.
 
 2.	Workspace Information Panel (Left):
