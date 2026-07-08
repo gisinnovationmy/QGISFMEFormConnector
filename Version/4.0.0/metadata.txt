@@ -1,0 +1,40 @@
+[general]
+name=QGIS-FME Form Connector
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=The QGIS-FME Form Connector plugin is a powerful tool that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these two platforms.
+version=4.0.0
+author=GIS Innovation Sdn. Bhd.
+email=mygis@gis.my
+
+about=This plugin enables QGIS users to leverage FME's robust and powerful data transformation capabilities directly within the QGIS interface. To use this plugin, users must ensure that FME Form is installed and licensed. It includes a default FME workspace (template) to help you get started, which can be customized according to your needs. The workspace template (.fmw) can be obtained or downloaded from <a href="https://github.com/gisinnovationmy/QGISFMEFormConnector/blob/main/Version/4.0.0/sampleworkspace/QGISFMEFormConnectorTemplate.fmw">GitHub</a>.
+
+
+homepage=https://gis.com.my/training/qgis-plugin/qgis-fme-form-connector/
+tracker=https://github.com/gisinnovationmy/QGISFMEFormConnector/issues
+repository=https://github.com/gisinnovationmy/QGISFMEFormConnector
+
+tags=python, qgis, fme, form, connector, automation, workflow, data, transformation, layers, openstreetmap, osm, project
+category=Plugins
+icon=icon.png
+experimental=False
+hasProcessingProvider=no
+deprecated=False
+server=False
+
+changelog=4.0.0
+          - Added compatibility for QGIS 4.0.
+          - Tested with FME Form 2025.X and 2026.2.
+
+          1.0.0
+          - Fixed filename with spaces error.
+          - Fixed changing fme.exe path selection.
+          - The plugin no longer reads the fme.exe and workspace location from the workspace header.
+          - Users must set the fme.exe path and save it in an ini file to be able to run the translation.
+          - Added synchronized layer selection widget.
+          - Change state of command line table input area from read only to editable.
+
+          Experimental
+          0.9.0
+          - Initial release of the experimental plugin.
+

@@ -1,0 +1,3 @@
+The workspace template (.fmw) can be obtained or downloaded from the GitHub under "sampleworkspace/QGISFMEFormConnectorTemplate.fmw". 
+
+Link to download the workspace template: [https://github.com/gisinnovationmy/QGISFMEFormConnector/blob/main/Version/4.0.0/sampleworkspace/QGISFMEFormConnectorTemplate.fmw](https://github.com/gisinnovationmy/QGISFMEFormConnector/blob/main/Version/4.0.0/sampleworkspace/QGISFMEFormConnectorTemplate.fmw) 
